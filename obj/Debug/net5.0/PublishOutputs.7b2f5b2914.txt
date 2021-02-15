@@ -1,0 +1,12 @@
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\LGBT_Love_Bot.exe
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\LGBT_Love_Bot.dll
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\LGBT_Love_Bot.deps.json
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\LGBT_Love_Bot.runtimeconfig.json
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\LGBT_Love_Bot.pdb
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\DSharpPlus.dll
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\DSharpPlus.CommandsNext.dll
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\Emzi0767.Common.dll
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\Microsoft.Extensions.DependencyInjection.dll
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Code\C#\LGBT_Love_Bot\bin\Debug\net5.0\publish\Newtonsoft.Json.dll
